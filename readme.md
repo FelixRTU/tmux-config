@@ -268,6 +268,16 @@ Let's go through them.
         <td><code>&lt;prefix&gt; C-p</code></td>
         <td>show all buffers (paste with p, delete with d)</td>
     </tr>
+    <tr>
+        <td><code>&lt;prefix&gt; y</code></td>
+        <td>(requires xsel) yank commandline / selection (copy mode) to clipboard</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td><code>&lt;prefix&gt; Y</code></td>
+        <td>copy current pane current working directory to the clipboard / copy+paste selction to commandline (copy mode)</td>
+        <td>-</td>
+    </tr>
 </table>
 
 
